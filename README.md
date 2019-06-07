@@ -1,2 +1,3 @@
-# Starship-Em-Up
-Basic Starship Game
+# Project in Object-Oreinted Design
+# Starship.exe
+Just a basic starship game.
